@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**peng-yin/peng-yin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm yinpeng 👋
 
 Here are some ideas to get you started:
 
@@ -10,9 +7,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 674891229@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-[![peng-yin's github stats](https://github-readme-stats.vercel.app/api?username=peng-yin&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![peng-yin's github stats](https://github-readme-stats.vercel.app/api?username=peng-yin&show_icons=true&hide_title=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
