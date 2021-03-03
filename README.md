@@ -1,8 +1,6 @@
 ### 🕊 Hi there, I'm yinpeng 👋
 
 - 🔭 I’m currently working on Beijing, China
-- 💯 I'm a front-end developer with React and Vue skills
-- 🌱 I’m currently learning D3.js, Egg...
 - 📔 Some of my study notes on this [website](https://peng-yin.github.io/note) 
 
 **Languages and Tools:**  
